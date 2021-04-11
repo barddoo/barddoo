@@ -14,7 +14,8 @@ I'm a backend engineer, violinist, chess player, romance reader.
 -->
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/barddoo?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/barddoo?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo)
+
 <!--
 Here are some ideas to get you started:
 
