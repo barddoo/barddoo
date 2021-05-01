@@ -7,12 +7,16 @@
 ---
 I'm a backend engineer, violinist, chess player, romance reader.
 
+
 - 💬 Ask me about: Java, Javascript 
 - 📫 How to reach me: [@pseudocharleskk](https://twitter.com/pseudocharleskk)
 <!--
 - ⚡ Fun fact: 
 -->
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/36YyYDEuPqFXsukc7iMsiK6GHXSnY9WYSB)](https://en.cryptobadges.io/donate/36YyYDEuPqFXsukc7iMsiK6GHXSnY9WYSB)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x209C43b4cc1bFAF2Cc727643f8e93Ee330c2f9dC)](https://en.cryptobadges.io/donate/0x209C43b4cc1bFAF2Cc727643f8e93Ee330c2f9dC)
+
+#### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
 ![Metrics](https://metrics.lecoq.io/barddoo?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo)
 
