@@ -18,7 +18,11 @@ I'm a backend engineer, violinist, chess player, romance reader.
 
 #### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
-![Metrics](https://metrics.lecoq.io/barddoo?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo)
+
+![Metrics](./svg-data.svg)
+<!--!
+[Metrics](https://metrics.lecoq./barddoo?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo)
+-->
 
 <!--
 Here are some ideas to get you started:
