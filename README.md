@@ -13,8 +13,8 @@ I'm a backend engineer, violinist, chess player, romance reader.
 <!--
 - ⚡ Fun fact: 
 -->
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/36YyYDEuPqFXsukc7iMsiK6GHXSnY9WYSB)](https://en.cryptobadges.io/donate/36YyYDEuPqFXsukc7iMsiK6GHXSnY9WYSB)
-[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x209C43b4cc1bFAF2Cc727643f8e93Ee330c2f9dC)](https://en.cryptobadges.io/donate/0x209C43b4cc1bFAF2Cc727643f8e93Ee330c2f9dC)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/bc1qewcj9evysrn8d2vucdl4qxenn0le30jyul843f)](https://en.cryptobadges.io/donate/bc1qewcj9evysrn8d2vucdl4qxenn0le30jyul843f)
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0x53603Cc997b96961b552fA59DC3a0Cf3ac3eaa8c)](https://en.cryptobadges.io/donate/0x53603Cc997b96961b552fA59DC3a0Cf3ac3eaa8c)
 
 #### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
